@@ -30,3 +30,9 @@ break;
 }
 }
 }
+if(len==c)
+System.out.println("true");
+else
+System.out.println("false");
+}
+}
